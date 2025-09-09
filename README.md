@@ -1,2 +1,2 @@
-# About-Me
-Welcome to the About-Me wiki! I'm currently focusing on data protection and investigating the ethical collection of data. I am also surveying to determine the overall need for data and information education within particular age groups in our society. I am mainly interested in how cybersecurity and data science can help people and how we can use them to shorten the gap in understanding within technological fields.
+# About-Me/mission statement
+Welcome to the About-Me wiki! I'm currently working towards entering the Cybersecurity field. I am exploring the incredibly diverse and interesting field of security in order to narrow down my true focus and passion. As I am still a student, I dedicate all the time I have to learning as much as possible from as many avenues as possible. I am committed to doing everything possible to make a positive impact on the world by providing users with proper and thorough protection of their private data.
