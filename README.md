@@ -1,2 +1,2 @@
-# |About-Me|Mission Statement|
+# About-Me|Mission Statement
 Welcome to the About-Me wiki! I'm currently working towards entering the Cybersecurity field. I am exploring the incredibly diverse and interesting field of security in order to narrow down my true focus and passion. As I am still a student, I dedicate all the time I have to learning as much as possible from as many avenues as possible. I am committed to doing everything possible to make a positive impact on the world by providing users with proper and thorough protection of their private data.
